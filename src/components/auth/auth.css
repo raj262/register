@@ -1,0 +1,46 @@
+.custom-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+    height: 100%;
+}
+.ant-form-item-required {color: #000!important;}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    
+    font-family: 'Roboto', sans-serif;
+}
+
+.login-box {
+    margin-top: 75px;
+    height: auto;
+    background: #1a222657;
+    text-align: center;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    padding: 20px;
+}
+.login-form {
+    margin-top: 25px;
+    text-align: left;
+}
+.login .title{  margin-top: 15px;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #ECF0F5;}
+.ant-form-item-required {color: #000 !important;}
+button{    background: #6639ff !important;}
+.bg-image{
+    background: url('https://wallpaperaccess.com/full/191519.jpg');
+    padding-top: 90px;
+    padding-bottom: 153px;
+background-repeat: repeat;}
+.text-p p{color: #fff;}
+
